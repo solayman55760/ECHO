@@ -1,0 +1,94 @@
+body{
+    width: 100%;
+    height:auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+.section1{
+    width: 80%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+   
+}
+
+
+.section1 .head{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    position: relative;
+}
+
+
+.section1 .head .logo{
+    padding-left: 240px;
+    cursor: pointer;
+}
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 200px;
+    margin-top: -30px;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+    background-color:white;
+    font-size: 15px;
+    height: 40px;
+    font-weight: bold;
+    width: 100px;
+    border: 1px solid white;
+    color:black;
+    float: left;
+    text-transform: uppercase;
+    line-height: 40px;
+    text-align: center;
+
+
+}
+
+.navbar ul li a{
+    color:black;
+    text-decoration: none;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.navbar ul li:hover{
+    background-color: white;
+    transition: all ease-in 2s ;
+
+}
+
+.navbar ul ul{
+    display: none;
+}
+.navbar ul li:hover>ul{
+    display: block;
+}
+
+
+.section1 .head .btn{
+    padding: 7px 20px;
+    background-color: #081158;
+    border: 1px solid #081158;
+    color: #FBB244;
+    border-radius: 30px;
+    margin-top: -10px;
+}
+
+
+.section1 .head .btn:hover{
+    background-color: white;
+    color: black;
+}
