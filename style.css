@@ -244,4 +244,18 @@ color: white;
 }
 
 
-.section4
+.section4 .marketing .icon i{
+    font-size: 40px;
+    padding-left: 80px;
+    opacity: .5;
+}
+
+
+.section4 .marketing .icon h1{
+    font-size: 25px;
+}
+
+
+.section4 .marketing .icon p{
+    opacity: .5;
+}
