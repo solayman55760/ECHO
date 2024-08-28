@@ -92,3 +92,156 @@ body{
     background-color: white;
     color: black;
 }
+
+
+.section2{
+    width: 100%;
+    height: auto;
+}
+
+
+.section2 .welcome{
+    width: 100%;
+    padding-top: 100px;
+    display: flex;
+    float: left;
+}
+
+
+.section2 .welcome .seo{
+    width: 50%;
+    padding-left: 250px;
+    padding-right: 130px;
+}
+
+
+.section2 .welcome .seo .btn1{
+    padding: 10px 15px;
+    outline: none;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: #FBB244;
+    font-size: 20px;
+}
+
+
+
+.section2 .welcome .seo h1{
+    font-size: 45px;
+    margin-right: 200px;
+    color: #081158;
+}
+
+
+
+.section2 .welcome .seo p{
+    opacity: 1;
+    color: #FBB244;
+}
+
+
+.section2 .welcome .seo .btn2{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 1px solid #081158;
+    background-color: #081158;
+    color: white;
+    font-size: 15px;
+}
+
+
+.section2 .welcome .seo .btn2:hover{
+    background-color: white;
+    color: #081158;
+}
+
+
+
+.section2 .welcome .seo .btn3{
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 1px solid #081158;
+    background-color:white;
+    color: #081158;
+    font-size: 15px;
+}
+
+
+.section2 .welcome .seo .btn3:hover{
+background-color: #081158;
+color: white;
+}
+
+
+
+.section2 .welcome .img1{
+    width: 50%;
+  height: 300px;
+
+}
+
+
+.section2 .welcome .img1 img{
+    width: 80%;
+}
+
+
+.section3{
+    width: 100%;
+    padding-top: 600px;
+    height: auto;
+}
+
+
+.section3 .Features{
+    width: 40%;
+    margin: 0 auto;
+}
+
+
+.section3 .Features .btn4{
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: #FBB244;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+
+.section3 .Features h1{
+    font-size: 40px;
+    color: #081158;
+    padding-left: 190px;
+    white-space: 5px;
+}
+
+
+.section3 .Features h3{
+    opacity: .5;
+    word-spacing: 2px;
+}
+
+
+.section4{
+    width: 100%;
+    padding-top: 100px;
+    height: auto;
+}
+
+
+.section4 .marketing{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+.section4 .marketing .icon{
+    width:20%;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+
+.section4
