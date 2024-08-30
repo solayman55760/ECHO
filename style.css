@@ -339,3 +339,61 @@ color: white;
     background-color: white;
     color: #081158;
 }
+
+
+.section6{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.section6 .ourservice{
+    margin-top: 600px;
+    text-align: center;
+    line-height: 5px;
+}
+
+
+.section6 .ourservice .btn8{
+    font-size: 10px;
+    padding: 5px 20px;
+    border: 1px solid white;
+    color: #FBB244;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #f5e5ca;
+}
+
+
+
+.section6 .ourservice h1{
+    font-size: 40px;
+    color: #081158;
+    letter-spacing: 1px;
+}
+
+
+.section7{
+    width: 100%;
+    height: 700px;
+}
+
+
+.section7 .sera{
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    margin: 0 auto;
+    width: 50%;
+    height: auto;
+    justify-items: center;
+
+}
+
+
+.section7 .sera div{
+ border: 1PX solid #f5e5ca;
+ padding: 20PX;
+ margin-top:-10PX;
+}
