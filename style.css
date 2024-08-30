@@ -259,3 +259,83 @@ color: white;
 .section4 .marketing .icon p{
     opacity: .5;
 }
+
+
+.section5{
+    width: 100%;
+    padding-top: 130px;
+    
+}
+
+
+.section5 .why{
+    display: flex;
+    width: 100%;
+    float: left;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+
+.section5 .why .img2{
+    width: 50%;
+    height: 300px;
+}
+
+
+.section5 .why .img2 img{
+    width: 90%;
+    height: auto;
+    padding-left: 300px;
+}
+
+
+
+.section5 .why .alt{
+    width: 50%;
+    padding-left: 300px;
+}
+
+
+.section5 .why .alt .btn6{
+    padding: 5px 20px;
+    border: 1px solid white;
+    color: #FBB244;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #f5e5ca;
+}
+
+
+
+.section5 .why .alt h1{
+    font-size: 40px;
+    color: #081158;
+}
+
+
+.section5 .why .alt p{
+    opacity: 0.5;  
+}
+
+
+.section5 .why .alt .abc{
+    opacity: 0.5;
+}
+
+
+
+.section5 .why .alt .btn7{
+    padding: 15px 25px;
+    border: 1px solid #081158;
+    border-radius: 30px;
+    background-color: #081158;
+    color: white;
+    font-weight: bold;
+}
+
+
+.section5 .why .alt .btn7:hover{
+    background-color: white;
+    color: #081158;
+}
