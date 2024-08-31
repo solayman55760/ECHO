@@ -382,7 +382,7 @@ color: white;
 .section7 .sera{
     display: grid;
     grid-template-columns: repeat(2 , 1fr);
-    grid-column-gap: 50px;
+    grid-column-gap: 30px;
     grid-row-gap: 50px;
     margin: 0 auto;
     width: 50%;
@@ -398,6 +398,11 @@ color: white;
  margin-top:-10PX;
 }
 
+.section7 .sera i{
+    font-size: 40px;
+    opacity: .5;
+}
+
 
 .section8{
     width: 100%;
@@ -407,4 +412,66 @@ color: white;
 
 .section8 .Testimonials{
     width: 100%;
+    padding-top: 200px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+.section8 .Testimonials .btn9{
+    padding: 10px 15px;
+    border: 1px solid white;
+    background-color: #fae9cf;
+    color: #e6941a;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+
+.section8 .Testimonials h1{
+    font-size: 50px;
+    color: #081158;
+}
+
+
+.section8 .Testimonials p{
+    opacity: 0.5;
+}
+
+
+
+.section9{
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+
+.section9 .spech{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-column-gap: 40px;
+    justify-content: center;
+    padding-left: 200px;
+}
+
+
+.section9 .spech div{
+    padding: 20px;
+    
+    background-color: white;
+    box-shadow: 1px 1px 3px 3px rgb(233, 225, 225);
+}
+
+
+.section9 .spech p{
+    font-size: 25px;
+    opacity: .5;
+}
+
+
+.section9 .spech h3{
+    opacity: .5;
+    color: red;
 }
