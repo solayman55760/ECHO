@@ -568,5 +568,16 @@ color: white;
 
 
 
+.section11{
+    padding-top: 50px;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
 
+
+.section11 .footer{
+ text-align: center;
+}
 
